@@ -31,6 +31,8 @@
 			<Item Name="#0_MAV_MSG_HEARTBEAT.vi" Type="VI" URL="../minimal/#0_MAV_MSG_HEARTBEAT.vi"/>
 			<Item Name="#_minimal.xml" Type="Document" URL="../minimal/#_minimal.xml"/>
 		</Item>
+		<Item Name="#22_MAV_MSG_PARAM_VALUE.vi" Type="VI" URL="../common/#22_MAV_MSG_PARAM_VALUE.vi"/>
+		<Item Name="#87_MAV_MSG_POSITION_TARGET_GLOBAL_INT.vi" Type="VI" URL="../common/#87_MAV_MSG_POSITION_TARGET_GLOBAL_INT.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Mavlink CRC READ.vi" Type="VI" URL="../Mavlink CRC READ.vi"/>
 		<Item Name="Mavlink CRC SEND.vi" Type="VI" URL="../Mavlink CRC SEND.vi"/>
