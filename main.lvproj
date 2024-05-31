@@ -53,7 +53,6 @@
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="PCT Pad String.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/PCT Pad String.vi"/>
-				<Item Name="Picture to Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Picture to Pixmap.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
@@ -83,6 +82,7 @@
 			<Item Name="#65_MAV_MSG_RC_CHANNELS_DECODE.vi" Type="VI" URL="../mavlink/mav_msg_decode/common/#65_MAV_MSG_RC_CHANNELS_DECODE.vi"/>
 			<Item Name="#66_MAV_MSG_REQUEST_DATA_STREAM_ENCODE.vi" Type="VI" URL="../mavlink/mav_msg_encode/common/#66_MAV_MSG_REQUEST_DATA_STREAM_ENCODE.vi"/>
 			<Item Name="#74_MAV_MSG_VFR_HUD_DECODE.vi" Type="VI" URL="../mavlink/mav_msg_decode/common/#74_MAV_MSG_VFR_HUD_DECODE.vi"/>
+			<Item Name="#76_MAV_MSG_COMMAND_LONG_ENCODE.vi" Type="VI" URL="../mavlink/mav_msg_encode/common/#76_MAV_MSG_COMMAND_LONG_ENCODE.vi"/>
 			<Item Name="#87_MAV_MSG_POSITION_TARGET_GLOBAL_INT_DECODE.vi" Type="VI" URL="../mavlink/mav_msg_decode/common/#87_MAV_MSG_POSITION_TARGET_GLOBAL_INT_DECODE.vi"/>
 			<Item Name="#111_MAV_MSG_TIMESYNC_DECODE.vi" Type="VI" URL="../mavlink/mav_msg_decode/common/#111_MAV_MSG_TIMESYNC_DECODE.vi"/>
 			<Item Name="#116_MAV_MSG_SCALED_IMU2_DECODE.vi" Type="VI" URL="../mavlink/mav_msg_decode/common/#116_MAV_MSG_SCALED_IMU2_DECODE.vi"/>
@@ -114,12 +114,7 @@
 			<Item Name="mav_msg_decode.vi" Type="VI" URL="../mavlink/mav_msg_decode/mav_msg_decode.vi"/>
 			<Item Name="mav_msg_read.vi" Type="VI" URL="../mavlink/mav_msg_decode/mav_msg_read.vi"/>
 			<Item Name="mav_send_all.vi" Type="VI" URL="../mavlink/mav_send_all.vi"/>
-			<Item Name="mfd_get.vi" Type="VI" URL="../mfd/mfd_get.vi"/>
-			<Item Name="mfd_global.vi" Type="VI" URL="../mfd/mfd_global.vi"/>
-			<Item Name="mfd_gps.vi" Type="VI" URL="../mfd/mfd_gps/mfd_gps.vi"/>
-			<Item Name="mfd_main.vi" Type="VI" URL="../mfd/mfd_main.vi"/>
-			<Item Name="mfd_radio_bat.vi" Type="VI" URL="../mfd/mfd_radio_battery/mfd_radio_bat.vi"/>
-			<Item Name="mfd_status_text.vi" Type="VI" URL="../mfd/mfd_status_text/mfd_status_text.vi"/>
+			<Item Name="mfd_global_v2.0.vi" Type="VI" URL="../optimized/mfd_global_v2.0.vi"/>
 			<Item Name="mod.vi" Type="VI" URL="../pfd/pfd_tools/mod.vi"/>
 			<Item Name="PFD_AirspeedSpeed.vi" Type="VI" URL="../pfd/pfd_airspeed/PFD_AirspeedSpeed.vi"/>
 			<Item Name="PFD_Altitude.vi" Type="VI" URL="../pfd/pfd_altitude/PFD_Altitude.vi"/>
