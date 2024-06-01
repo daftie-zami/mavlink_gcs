@@ -109,8 +109,6 @@
 			<Item Name="mav_connection_write.vi" Type="VI" URL="../mavlink/mav_connection/mav_connection_write.vi"/>
 			<Item Name="mav_crc_read.vi" Type="VI" URL="../mavlink/mav_crc/mav_crc_read.vi"/>
 			<Item Name="mav_crc_send.vi" Type="VI" URL="../mavlink/mav_crc/mav_crc_send.vi"/>
-			<Item Name="mav_global_var.vi" Type="VI" URL="../mavlink/mav_global_var.vi"/>
-			<Item Name="mav_main.vi" Type="VI" URL="../mavlink/mav_main.vi"/>
 			<Item Name="mav_msg_decode.vi" Type="VI" URL="../mavlink/mav_msg_decode/mav_msg_decode.vi"/>
 			<Item Name="mav_msg_read.vi" Type="VI" URL="../mavlink/mav_msg_decode/mav_msg_read.vi"/>
 			<Item Name="mav_send_all.vi" Type="VI" URL="../mavlink/mav_send_all.vi"/>
