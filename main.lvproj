@@ -142,10 +142,10 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{22C0E14E-7D4B-4A67-8C1B-3D5A91CD7E86}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/Application.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">LabGCS.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/LabGCS.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -153,18 +153,18 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{EAD12F97-9DEE-4823-91C7-54291DED56A1}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4B386EC9-F4F5-4A51-BF4D-B17D4982E47A}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/main.vi</Property>
 				<Property Name="Source[1].properties[0].type" Type="Str">Show vertical scroll bar</Property>
-				<Property Name="Source[1].properties[0].value" Type="Bool">true</Property>
+				<Property Name="Source[1].properties[0].value" Type="Bool">false</Property>
 				<Property Name="Source[1].properties[1].type" Type="Str">Show menu bar</Property>
 				<Property Name="Source[1].properties[1].value" Type="Bool">true</Property>
 				<Property Name="Source[1].properties[2].type" Type="Str">Window has title bar</Property>
 				<Property Name="Source[1].properties[2].value" Type="Bool">true</Property>
 				<Property Name="Source[1].properties[3].type" Type="Str">Show horizontal scroll bar</Property>
-				<Property Name="Source[1].properties[3].value" Type="Bool">true</Property>
+				<Property Name="Source[1].properties[3].value" Type="Bool">false</Property>
 				<Property Name="Source[1].properties[4].type" Type="Str">Show toolbar</Property>
 				<Property Name="Source[1].properties[4].value" Type="Bool">true</Property>
 				<Property Name="Source[1].properties[5].type" Type="Str">Show Abort button</Property>
@@ -175,16 +175,19 @@
 				<Property Name="Source[1].properties[7].value" Type="Str">Default</Property>
 				<Property Name="Source[1].properties[8].type" Type="Str">Allow user to close window</Property>
 				<Property Name="Source[1].properties[8].value" Type="Bool">true</Property>
-				<Property Name="Source[1].propertiesCount" Type="Int">9</Property>
+				<Property Name="Source[1].properties[9].type" Type="Str">Allow debugging</Property>
+				<Property Name="Source[1].properties[9].value" Type="Bool">false</Property>
+				<Property Name="Source[1].propertiesCount" Type="Int">10</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">Aerospectra</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">LabGCS</Property>
 				<Property Name="TgtF_internalName" Type="Str">LabGCS</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2024 </Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Aerospectra Copyright © 2024 </Property>
 				<Property Name="TgtF_productName" Type="Str">LabGCS</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{7F23F520-975C-45D2-A4EE-25B2D6704DE3}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">LabGCS.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
