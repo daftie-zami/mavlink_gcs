@@ -1,5 +1,7 @@
 # mavlink_gcs
 
+![Main Screen](/resources/IMG_4115.PNG)
+
 **LabGCS**  
 A Ground Control Station (GCS) for MAVLink-based vehicles, built in LabVIEW.
 
